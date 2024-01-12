@@ -12,4 +12,4 @@ Still, we'd like to share some of this to lend a hand to the dozens of law profe
 
 Here is the [table of contents](/docs/ailaw.ToC.fall2023.pdf).
 
-In addition, here is the [syllabus](/docs/ailaw.ToC.fall2023.pdf).
+In addition, here is the [syllabus](/docs/ailaw.syllabus.ohmgeorgetown.fall2023.pdf).
