@@ -4,7 +4,7 @@ date = 2024-01-11T20:45:24-05:00
 draft = false
 +++
 
-The casebook originated in Paul Ohm's AI Law course at Georgetown Law in Fall 2023.
+The casebook originated in Paul Ohm's [AI Law course at Georgetown Law in Fall 2023](/posts/toc/).
 
 The book has three co-authors: 
 
