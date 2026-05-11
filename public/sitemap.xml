@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://aila.ws/posts/updatedtoc/</loc>
+    <lastmod>2026-05-11T17:25:18-04:00</lastmod>
+  </url><url>
+    <loc>https://aila.ws/</loc>
+    <lastmod>2026-05-11T17:25:18-04:00</lastmod>
+  </url><url>
+    <loc>https://aila.ws/posts/</loc>
+    <lastmod>2026-05-11T17:25:18-04:00</lastmod>
+  </url><url>
+    <loc>https://aila.ws/posts/foundationpress/</loc>
+    <lastmod>2026-05-11T16:54:18-04:00</lastmod>
+  </url><url>
+    <loc>https://aila.ws/posts/toc/</loc>
+    <lastmod>2024-01-12T14:00:24-05:00</lastmod>
+  </url><url>
+    <loc>https://aila.ws/posts/about-the-book/</loc>
+    <lastmod>2024-01-11T20:45:24-05:00</lastmod>
+  </url><url>
+    <loc>https://aila.ws/posts/hello-world/</loc>
+    <lastmod>2024-01-11T20:35:21-05:00</lastmod>
+  </url><url>
+    <loc>https://aila.ws/categories/</loc>
+  </url><url>
+    <loc>https://aila.ws/tags/</loc>
+  </url>
+</urlset>

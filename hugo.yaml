@@ -14,8 +14,8 @@ params:
         Title: "Artificial Intelligence Law"
         BeforeContent: >
           About the forthcoming casebook by [Margot Kaminski](https://lawweb.colorado.edu/profiles/profile.jsp?id=825), [Paul Ohm](https://paulohm.com), and [Andrew Selbst](https://law.ucla.edu/faculty/faculty-profiles/andrew-d-selbst), and other occasional musings.
-        ImageUrl: "/img/AILawCasebook3.png"
-        EndContent: "*Image credit: Paul Ohm, assisted by DALL-E, 2024*"
+        ImageUrl: "/img/foundation-press-mockup.png"
+        EndContent: "*Image credit: Paul Ohm, assisted by Google Gemini, 2026*"
 
     label:
         text: "Artificial Intelligence Law"
