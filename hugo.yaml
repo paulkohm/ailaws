@@ -6,12 +6,12 @@ theme: "PaperMod"
 
 params:
     title: AILaw
-    description: "Artificial Intelligence Law"
+    description: "Artificial Intelligence Law, a Casebook by Margot Kaminski, Paul Ohm, and Andrew Selbst"
     DateFormat: "January 2, 2006"
     defaultTheme: auto
 
     homeInfoParams:
-        Title: "Artificial Intelligence Law"
+        Title: "Artificial Intelligence Law, a Casebook by Margot Kaminski, Paul Ohm, and Andrew Selbst"
         BeforeContent: >
           About the forthcoming casebook by [Margot Kaminski](https://lawweb.colorado.edu/profiles/profile.jsp?id=825), [Paul Ohm](https://paulohm.com), and [Andrew Selbst](https://law.ucla.edu/faculty/faculty-profiles/andrew-d-selbst), and other occasional musings.
         ImageUrl: "/img/foundation-press-mockup.png"
