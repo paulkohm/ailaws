@@ -1,47 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Artificial Intelligence Law, a Casebook by Margot Kaminski, Paul Ohm, and Andrew Selbst</title>
-    <link>https://aila.ws/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Artificial Intelligence Law, a Casebook by Margot Kaminski, Paul Ohm, and Andrew Selbst</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 11 May 2026 17:25:18 -0400</lastBuildDate>
-    <atom:link href="https://aila.ws/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>An Updated Draft Table of Contents</title>
-      <link>https://aila.ws/posts/updatedtoc/</link>
+      <link>http://localhost:1313/posts/updatedtoc/</link>
       <pubDate>Mon, 11 May 2026 17:25:18 -0400</pubDate>
-      <guid>https://aila.ws/posts/updatedtoc/</guid>
-      <description>&lt;p&gt;To give you a better sense for the forthcoming casebook, here&amp;rsquo;s our current &lt;a href=&#34;https://aila.ws/docs/ailaw.brieftoc.summer2026.pdf&#34;&gt;table of contents&lt;/a&gt;, as of May 2026. We expect to make some changes to the book&amp;rsquo;s topics and overall organization before it appears in print, but this will give you a good sense for the topics covered, the flow of the book, and maybe even some of our underlying philosophy and pedagogical approach.&lt;/p&gt;
+      <guid>http://localhost:1313/posts/updatedtoc/</guid>
+      <description>&lt;p&gt;To give you a better sense for the forthcoming casebook, here&amp;rsquo;s our current &lt;a href=&#34;http://localhost:1313/docs/ailaw.brieftoc.summer2026.pdf&#34;&gt;table of contents&lt;/a&gt;, as of May 2026. We expect to make some changes to the book&amp;rsquo;s topics and overall organization before it appears in print, but this will give you a good sense for the topics covered, the flow of the book, and maybe even some of our underlying philosophy and pedagogical approach.&lt;/p&gt;
 &lt;div class=&#34;pdf-container&#34;&gt;
-    &lt;embed src=&#34;https://aila.ws/docs/ailaw.brieftoc.summer2026.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34; /&gt;
+    &lt;embed src=&#34;http://localhost:1313/docs/ailaw.brieftoc.summer2026.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34; /&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
       <title>A Publisher and Publication Date!</title>
-      <link>https://aila.ws/posts/foundationpress/</link>
+      <link>http://localhost:1313/posts/foundationpress/</link>
       <pubDate>Mon, 11 May 2026 16:54:18 -0400</pubDate>
-      <guid>https://aila.ws/posts/foundationpress/</guid>
+      <guid>http://localhost:1313/posts/foundationpress/</guid>
       <description>&lt;p&gt;We (Margot Kaminski, Paul Ohm, and Andrew Selbst) are proud to announce that we have a publisher for Artificial Intelligence Law and an expected publishing date! We are pleased to be working with Foundation Press, part of the West Academic Publishing family, as part of the University Casebook Series. (In case you think in these terms: the casebooks with the blue covers with red squares.)&lt;/p&gt;
 &lt;p&gt;We are spending Summer 2026 putting the finishing touches on the first edition, which we plan to be available in time for fall adoptions. Faculty considering adopting the book should contact one of us or Foundation Press to see draft proofs.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Our Starting Point (Table of Contents)</title>
-      <link>https://aila.ws/posts/toc/</link>
+      <link>http://localhost:1313/posts/toc/</link>
       <pubDate>Fri, 12 Jan 2024 14:00:24 -0500</pubDate>
-      <guid>https://aila.ws/posts/toc/</guid>
-      <description>&lt;p&gt;The starting point for &lt;a href=&#34;https://aila.ws/posts/about-the-book&#34;&gt;our casebook&lt;/a&gt; is the draft &lt;a href=&#34;https://www.law.georgetown.edu/faculty/paul-ohm/&#34;&gt;Paul&lt;/a&gt; created when he taught AI &amp;amp; Law for the first time in Fall 2023. This version did not have the benefit of Margot&amp;rsquo;s and Andrew&amp;rsquo;s full input, and it&amp;rsquo;s full of choices that Paul will do differently the next time he teaches.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://aila.ws/img/paul.teaching.ailaw.png&#34; alt=&#34;Action shot of Paul Ohm teaching AI Law in Fall 2023.&#34;  /&gt;
-&lt;/p&gt;
+      <guid>http://localhost:1313/posts/toc/</guid>
+      <description>&lt;p&gt;The starting point for &lt;a href=&#34;http://localhost:1313/posts/about-the-book&#34;&gt;our casebook&lt;/a&gt; is the draft &lt;a href=&#34;https://www.law.georgetown.edu/faculty/paul-ohm/&#34;&gt;Paul&lt;/a&gt; created when he taught AI &amp;amp; Law for the first time in Fall 2023. This version did not have the benefit of Margot&amp;rsquo;s and Andrew&amp;rsquo;s full input, and it&amp;rsquo;s full of choices that Paul will do differently the next time he teaches.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Action shot of Paul Ohm teaching AI Law in Fall 2023.&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/paul.teaching.ailaw.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Still, we&amp;rsquo;d like to share some of this to lend a hand to the dozens of law professors and hundreds of students gearing up for a class in AI Law this semester. The PDF below contains not only a topic-by-topic summary, but the names of the cases, statutes, government documents, articles, and book chapters Paul assigned. If you have trouble deciphering or running down anything in the document, let us know.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About the Book</title>
-      <link>https://aila.ws/posts/about-the-book/</link>
+      <link>http://localhost:1313/posts/about-the-book/</link>
       <pubDate>Thu, 11 Jan 2024 20:45:24 -0500</pubDate>
-      <guid>https://aila.ws/posts/about-the-book/</guid>
-      <description>&lt;p&gt;The casebook originated in Paul Ohm&amp;rsquo;s &lt;a href=&#34;https://aila.ws/posts/toc/&#34;&gt;AI Law course at Georgetown Law in Fall 2023&lt;/a&gt;.&lt;/p&gt;
+      <guid>http://localhost:1313/posts/about-the-book/</guid>
+      <description>&lt;p&gt;The casebook originated in Paul Ohm&amp;rsquo;s &lt;a href=&#34;http://localhost:1313/posts/toc/&#34;&gt;AI Law course at Georgetown Law in Fall 2023&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The book has three co-authors:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://lawweb.colorado.edu/profiles/profile.jsp?id=825&#34;&gt;Margot Kaminski&lt;/a&gt;, Professor of Law, University of Colorado Law School&lt;/li&gt;
@@ -52,9 +51,9 @@
     </item>
     <item>
       <title>Hello World</title>
-      <link>https://aila.ws/posts/hello-world/</link>
+      <link>http://localhost:1313/posts/hello-world/</link>
       <pubDate>Thu, 11 Jan 2024 20:35:21 -0500</pubDate>
-      <guid>https://aila.ws/posts/hello-world/</guid>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
       <description>&lt;p&gt;Hello, world!&lt;/p&gt;</description>
     </item>
   </channel>
